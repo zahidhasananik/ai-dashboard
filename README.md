@@ -5,7 +5,7 @@ BizInsight is a modern, responsive business analytics dashboard built using **Re
 ---
 
 ## 🚀 Live Demo
-Experience the live application here: **[Your Live Link Will Go Here]** *(e.g., Vercel or Netlify URL)*
+Experience the live application here: **[https://ai-dashboard-wine-eight.vercel.app]** *(e.g., Vercel or Netlify URL)*
 
 ---
 
